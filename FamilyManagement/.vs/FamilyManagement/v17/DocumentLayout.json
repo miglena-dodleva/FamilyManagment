@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diplom work API version\\FamilyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.api\\controllers\\familymanagment\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|solutionrelative:familymanagement.api\\controllers\\familymanagment\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.api\\familymanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|solutionrelative:familymanagement.api\\familymanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.api\\controllers\\familymanagment\\familycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|solutionrelative:familymanagement.api\\controllers\\familymanagment\\familycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\models\\familymanagement\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\models\\familymanagement\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\models\\familymanagement\\familymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\models\\familymanagement\\familymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A03F0E09-7CDD-4918-B43F-80B4A3AB97F2}|FamilyManagement.Data\\FamilyManagement.Data.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.data\\familymanagement.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A03F0E09-7CDD-4918-B43F-80B4A3AB97F2}|FamilyManagement.Data\\FamilyManagement.Data.csproj|solutionrelative:familymanagement.data\\familymanagement.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\familymanagementservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\familymanagementservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\models\\familymanagement\\calendartousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\models\\familymanagement\\calendartousermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.models\\entities\\calendartofamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|solutionrelative:familymanagement.models\\entities\\calendartofamily.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\familymanagement.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\familymanagement.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|solutionrelative:familymanagement.api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.models\\entities\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|solutionrelative:familymanagement.models\\entities\\jwttoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FamilyController.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\FamilyManagment\\FamilyController.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.API\\Controllers\\FamilyManagment\\FamilyController.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\FamilyManagment\\FamilyController.cs",
+              "RelativeToolTip": "FamilyManagement.API\\Controllers\\FamilyManagment\\FamilyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:59:48.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\BaseModel.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\Models\\FamilyManagement\\BaseModel.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\BaseModel.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\Models\\FamilyManagement\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:38:58.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FamilyModel.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\FamilyModel.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\Models\\FamilyManagement\\FamilyModel.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\FamilyModel.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\Models\\FamilyManagement\\FamilyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:38:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\FamilyManagment\\UserController.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.API\\Controllers\\FamilyManagment\\UserController.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\FamilyManagment\\UserController.cs",
+              "RelativeToolTip": "FamilyManagement.API\\Controllers\\FamilyManagment\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:01:45.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FamilyManagement.API",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\FamilyManagement.API.csproj",
+              "RelativeDocumentMoniker": "FamilyManagement.API\\FamilyManagement.API.csproj",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\FamilyManagement.API.csproj",
+              "RelativeToolTip": "FamilyManagement.API\\FamilyManagement.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T12:25:12.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\FamilyManagementServices\\UserService.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\FamilyManagementServices\\UserService.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\FamilyManagementServices\\UserService.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\FamilyManagementServices\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:01:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalendarToUserModel.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\CalendarToUserModel.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\Models\\FamilyManagement\\CalendarToUserModel.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\CalendarToUserModel.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\Models\\FamilyManagement\\CalendarToUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:01:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalendarToFamily.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Entities\\CalendarToFamily.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Models\\Entities\\CalendarToFamily.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Entities\\CalendarToFamily.cs",
+              "RelativeToolTip": "FamilyManagement.Models\\Entities\\CalendarToFamily.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:00:48.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FamilyManagement.Data",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Data\\FamilyManagement.Data.csproj",
+              "RelativeDocumentMoniker": "FamilyManagement.Data\\FamilyManagement.Data.csproj",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Data\\FamilyManagement.Data.csproj",
+              "RelativeToolTip": "FamilyManagement.Data\\FamilyManagement.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T11:00:45.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FamilyManagement.Services",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\FamilyManagement.Services.csproj",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\FamilyManagement.Services.csproj",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\FamilyManagement.Services.csproj",
+              "RelativeToolTip": "FamilyManagement.Services\\FamilyManagement.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T12:03:55.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.API\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "FamilyManagement.API\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:05:39.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtToken.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Entities\\JwtToken.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Models\\Entities\\JwtToken.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Entities\\JwtToken.cs",
+              "RelativeToolTip": "FamilyManagement.Models\\Entities\\JwtToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T22:03:36.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
