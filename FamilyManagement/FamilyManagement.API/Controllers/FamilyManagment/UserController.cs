@@ -3,6 +3,7 @@ using FamilyManagement.Services.Models.UserManagement;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace FamilyManagement.API.Controllers.FamilyManagment
 {
@@ -44,6 +45,8 @@ namespace FamilyManagement.API.Controllers.FamilyManagment
                 data = user
             });
         }
+
+        
 
         // POST api/<UsersController>
         [HttpPost("create")]
@@ -98,7 +101,7 @@ namespace FamilyManagement.API.Controllers.FamilyManagment
             });
         }
 
-        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+        //[Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
         // DELETE api/<UsersController>/5
         [HttpDelete("delete/{id}")]
         public IActionResult Delete(int id)

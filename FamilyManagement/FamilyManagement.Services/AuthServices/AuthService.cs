@@ -1,4 +1,5 @@
 ﻿using FamilyManagement.Data;
+using FamilyManagement.Data.Entities;
 using FamilyManagement.Models.Entities;
 using FamilyManagement.Models.Enums;
 using FamilyManagement.Services.Interfaces;
@@ -213,6 +214,14 @@ namespace FamilyManagement.Services.AuthServices
 
             return true;
 
+        }
+
+        public User GetUserByCredentials(string username, string password)
+        {
+            var user = context.Users
+                .FirstOrDefault(u => u.Username == username && u.Password == password);
+
+            return user;
         }
     }
 }

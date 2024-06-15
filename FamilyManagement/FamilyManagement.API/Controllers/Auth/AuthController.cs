@@ -24,6 +24,15 @@ namespace FamilyManagement.API.Controllers.Auth
             {
                 return NotFound();
             }
+            
+            //
+            var loggedUser = this.service.GetUserByCredentials(model.Username, model.Password);
+
+            if (loggedUser == null)
+            {
+                return Unauthorized();
+            }
+            //
 
             var tokens = this.service.AccessTokenGenerator(model);
 
@@ -35,10 +44,12 @@ namespace FamilyManagement.API.Controllers.Auth
             var readAccessToken = tokens[0];
             var readRefreshToken = tokens[1];
 
+
             return Ok(new
             {
                 accessToken = readAccessToken,
-                refreshToken = readRefreshToken
+                refreshToken = readRefreshToken,
+                userId = loggedUser.Id
             });
 
         }

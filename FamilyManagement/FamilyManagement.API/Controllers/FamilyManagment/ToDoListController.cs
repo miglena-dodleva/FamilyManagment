@@ -1,11 +1,13 @@
 ﻿using FamilyManagement.Data.Entities;
 using FamilyManagement.Services.Interfaces;
 using FamilyManagement.Services.Models.FamilyManagement;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FamilyManagement.API.Controllers.FamilyManagment
 {
-    // [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+    [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     [Route("api/[controller]")]
     [ApiController]
     public class ToDoListController : ControllerBase

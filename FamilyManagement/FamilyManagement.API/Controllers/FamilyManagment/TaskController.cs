@@ -25,7 +25,7 @@ namespace FamilyManagement.API.Controllers.FamilyManagment
         }
 
         // GET api/<TaskController>/5
-        [HttpGet("eventById/{id}")]
+        [HttpGet("taskById/{id}")]
         public IActionResult GetById(int id)
         {
             var task = this.service.GetTaskById(id);

@@ -1,4 +1,5 @@
-﻿using FamilyManagement.Services.Models.Auth;
+﻿using FamilyManagement.Data.Entities;
+using FamilyManagement.Services.Models.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,5 +13,7 @@ namespace FamilyManagement.Services.Interfaces
         List<string> AccessTokenGenerator(Credential credential);
         List<string> RefreshTokenGenerator(RefreshAccessToken model);
         bool RevokeToken(RefreshAccessToken model);
+
+        User GetUserByCredentials(string username, string password); // Нов метод
     }
 }
