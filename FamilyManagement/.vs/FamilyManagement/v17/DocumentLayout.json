@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Diplom work API version\\FamilyManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|solutionrelative:familymanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.api\\controllers\\familymanagment\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39D86F7-5C42-4AFA-B23B-CE08AC57008A}|FamilyManagement.API\\FamilyManagement.API.csproj|solutionrelative:familymanagement.api\\controllers\\familymanagment\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.models\\enums\\repeattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|solutionrelative:familymanagement.models\\enums\\repeattype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.models\\enums\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|solutionrelative:familymanagement.models\\enums\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\models\\familymanagement\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\models\\familymanagement\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\models\\familymanagement\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\models\\familymanagement\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\familymanagementservices\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\familymanagementservices\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDE8C26-60C5-41EC-AA50-50C383487DF9}|FamilyManagement.Services\\FamilyManagement.Services.csproj|solutionrelative:familymanagement.services\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|d:\\diplom work api version\\familymanagement\\familymanagement.models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870EC4B4-E1B7-4B21-ACD8-33BEA2E9183A}|FamilyManagement.Models\\FamilyManagement.Models.csproj|solutionrelative:familymanagement.models\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepeatType.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Enums\\RepeatType.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Models\\Enums\\RepeatType.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Enums\\RepeatType.cs",
+              "RelativeToolTip": "FamilyManagement.Models\\Enums\\RepeatType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:02:35.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemeColor.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Enums\\ThemeColor.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Models\\Enums\\ThemeColor.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Enums\\ThemeColor.cs",
+              "RelativeToolTip": "FamilyManagement.Models\\Enums\\ThemeColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:58:37.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\FamilyManagementServices\\EventService.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\FamilyManagementServices\\EventService.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\FamilyManagementServices\\EventService.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\FamilyManagementServices\\EventService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:47:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\Interfaces\\IEventService.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\Interfaces\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:47:17.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\FamilyManagment\\EventController.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.API\\Controllers\\FamilyManagment\\EventController.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Controllers\\FamilyManagment\\EventController.cs",
+              "RelativeToolTip": "FamilyManagement.API\\Controllers\\FamilyManagment\\EventController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:23:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\TaskModel.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\Models\\FamilyManagement\\TaskModel.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\TaskModel.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\Models\\FamilyManagement\\TaskModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:15:05.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.API\\Program.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.API\\Program.cs",
+              "RelativeToolTip": "FamilyManagement.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:58:58.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\EventModel.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Services\\Models\\FamilyManagement\\EventModel.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Services\\Models\\FamilyManagement\\EventModel.cs",
+              "RelativeToolTip": "FamilyManagement.Services\\Models\\FamilyManagement\\EventModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:26:11.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "FamilyManagement.Models\\Entities\\Event.cs",
+              "ToolTip": "D:\\Diplom work API version\\FamilyManagement\\FamilyManagement.Models\\Entities\\Event.cs",
+              "RelativeToolTip": "FamilyManagement.Models\\Entities\\Event.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:44:59.698Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
